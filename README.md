@@ -1,5 +1,5 @@
 # Telegram Weather-Bot
-# Test bot!
+# Test bot on c#!
 > Starting Bot
 #
 ![1](https://user-images.githubusercontent.com/37832400/62831191-fa41bc00-bc23-11e9-8f15-934cffcee960.PNG)
